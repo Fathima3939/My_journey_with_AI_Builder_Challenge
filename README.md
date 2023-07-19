@@ -49,9 +49,9 @@ AI is the creation of software that imitates human behaviors and capabilities.
 ***
 
 ### Six Principles of Responsibe AI
-1. Fairness
+1. Fairness (treat all people fairly.)
 2. Reliability and safety
 3. Privacy and Security (Checks origin and path,if private or public data,data corruption consideration)
-4. Inclusiveness
+4. Inclusiveness (benefits to all parts of society, regardless of physical ability, gender, sexual orientation, ethnicity, or other factors.)
 5. Transparency
-6. Accountability
+6. Accountability (Designers and developers of AI-based solutions should work within a framework of governance and organizational principles that ensure the solution meets ethical and legal standards that are clearly defined.)
