@@ -4,7 +4,7 @@ AI is the creation of software that imitates human behaviors and capabilities.
 
 ### Keywords 
 
-* __Machine learning__ - TMachine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+* __Machine learning__ - Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
 
 - __Anomaly detection__ - A machine learning based technique that analyzes data over time and identifies unusual changes.
@@ -26,10 +26,10 @@ AI is the creation of software that imitates human behaviors and capabilities.
 6. Optical character recognition (OCR) -technique used to detect and read text in images. 
 
 *Computer vision services in Microsoft Azure*
-1. Computer Vision	You can use this service to analyze images and video, and extract descriptions, tags, objects, and text.
-2. Custom Vision	Use this service to train custom image classification and object detection models using your own images.
-3. Face	The Face service enables you to build face detection and facial recognition solutions.
-4. Form Recognizer	Use this service to extract information from scanned forms and invoices.
+1. Computer Vision - You can use this service to analyze images and video, and extract descriptions, tags, objects, and text.
+2. Custom Vision - Use this service to train custom image classification and object detection models using your own images.
+3. Face	- The Face service enables you to build face detection and facial recognition solutions.
+4. Form Recognizer - Use this service to extract information from scanned forms and invoices.
 
 
 + __Natural language processing__ - The capability for a computer to interpret written or spoken language, and respond in kind.
